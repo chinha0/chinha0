@@ -15,7 +15,7 @@ Hello! I'm Koh Chin Hao, a Bachelor of Computer Science student specializing in 
 I am passionate about exploring technology, developing software solutions, and understanding how computing technologies can solve real-world problems.
 
 - 🎓 University: University Technology Malaysia
-- 💻 Programme: Bachelor of Computer Science in Networking and Security
+- 💻 Programme: Bachelor of Computer Science
 - 🔐 Specialization: Computer Networking and Security
 - 🌱 Currently exploring: Programming and software development
 - 🤖 Research Interests: Artificial Intelligence, Software Development, and Educational Technology
