@@ -25,6 +25,13 @@ I believe that learning, experimenting, and embracing new challenges are essenti
 
 ---
 
+## 🗣️ Languages
+-Mandarin (Fluent)
+-Malay (Fluent)
+-English (Conversational)
+
+---
+
 ## 🛠️ Technical Skills
 My major skills that i have is that i am proficient with fundamentals of programming, able to work under huge pressure as well as collaborative software development. I am eager to explore software engineering, web development and specialized tech stacks. For learning goals, I am commited to mastering advanced coding practices, contributing to open-source projects and building scalable application.
 
