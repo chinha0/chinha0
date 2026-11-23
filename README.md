@@ -117,4 +117,5 @@ This section will be updated as I gain academic achievements, professional certi
 
 <p align="center">
   ⭐ Feel free to explore my repositories and follow my learning journey!
+  🌱 "Small steps today, big dreams tomorrow." | "Better Version of Myself" ✨
 </p>
