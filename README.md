@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Koh Chin Hao, a Bachelor of Computer Science student specializing in Networking and Security at University Technology Malaysia.
+Hello! I'm Koh Chin Hao, a Bachelor of Computer Science student specializing in Networking and Security at University Technology Malaysia. I come form Pasir Gudang, Johor, Malaysia. Before bachelor degree, I finished my study in Physical Science under UTMSPACE.In the future, my goal is to obtained a job as cybersecurity analyst.
 
 I am passionate about exploring technology, developing software solutions, and understanding how computing technologies can solve real-world problems.
 
@@ -26,6 +26,7 @@ I believe that learning, experimenting, and embracing new challenges are essenti
 ---
 
 ## 🛠️ Technical Skills
+My major skills that i have is that i am proficient with fundamentals of programming, able to work under huge pressure as well as collaborative software development. I am eager to explore software engineering, web development and specialized tech stacks. For learning goals, I am commited to mastering advanced coding practices, contributing to open-source projects and building scalable application.
 
 ### Programming Languages
 
