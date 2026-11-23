@@ -79,12 +79,12 @@ More projects will be added as I develop my portfolio.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chinha0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinha0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chinha0&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinha0&layout=compact&theme=dracula&hide_border=true" alt="Top Programming Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinha0&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=chinha0&theme=dracula&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
