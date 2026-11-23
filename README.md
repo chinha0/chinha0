@@ -26,9 +26,9 @@ I believe that learning, experimenting, and embracing new challenges are essenti
 ---
 
 ## 🗣️ Languages
--Mandarin (Fluent)
--Malay (Fluent)
--English (Conversational)
+- Mandarin (Fluent)
+- Malay (Fluent)
+- English (Conversational)
 
 ---
 
